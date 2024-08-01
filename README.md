@@ -7,6 +7,8 @@ Requerimientos del sistema:
 3. Tener un puerto de depuración con el PC: USART2.
 
 Funcionalidades:
+
+
 4. Si un botón de giro se presiona 1 vez: la luz del lado correspondiente parpadea 3 veces.
 5. Debe enviar mensajes de información por la consola cuando hayan eventos en el sistema.
 6. La frecuencia de parpadeo de las luces debe ser de 2Hz.
